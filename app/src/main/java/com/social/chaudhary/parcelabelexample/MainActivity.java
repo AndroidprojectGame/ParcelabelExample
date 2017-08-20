@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 p.setQualification("MCA");
                 i.putExtra("person",p);
                 startActivity(i);
-                //hello
+                //hello///
             }
         });
     }
